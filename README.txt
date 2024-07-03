@@ -5,6 +5,3 @@ I included all cards from blackjack + the joker (in the goofy pulling).
 
 This should be pretty solid, check it out.
 
-## Subheader
-
-Check out my GitHub.
