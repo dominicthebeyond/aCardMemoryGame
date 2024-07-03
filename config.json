@@ -1,0 +1,47 @@
+[
+    {
+        "card": "Ace",
+        "isDynamic": true,
+        "values": [1, 11]
+    },
+    {
+        "card": "King",
+        "isDynamic": false,
+        "values": [10]
+    },
+    {
+        "card": "Queen",
+        "isDynamic": false,
+        "values": [10]
+    },
+    {
+        "card": "Jack of All Trades",
+        "isDynamic": false,
+        "values": [10]
+    },
+    {
+        "card": "Joker",
+        "isDynamic": true,
+        "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+        "card": "spades",
+        "isDynamic": true,
+        "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+        "card": "hearts",
+        "isDynamic": true,
+        "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+        "card": "clubs",
+        "isDynamic": true,
+        "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+        "card": "diamonds",
+        "isDynamic": true,
+        "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    }
+]
